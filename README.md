@@ -1,4 +1,4 @@
-CPE-555 homeworks
+CPE-555 Real-Time and Embedded Systems
 
 FreeRTOS; C language
 
